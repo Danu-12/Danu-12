@@ -34,8 +34,18 @@ I have hands-on experience with **SQL, Excel, Power BI, and Python**, working on
 
 ## 🛠️ Skills & Tools
 
-- **SQL | Excel | Power BI | Python | R | Google Analytics**
-- **Pandas | NumPy | Matplotlib | Seaborn | NLTK**
+![SQL](https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=plastic&logo=google-analytics&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=plastic)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=plastic)
+![NLTK](https://img.shields.io/badge/NLTK-3E8EDE?style=plastic)
+
 
 ---
 
@@ -53,4 +63,7 @@ I’m actively seeking **entry-level Business Analyst / Data Analyst roles**, wh
 
 ## 🔗 Connect with Me
 
-📎 **LinkedIn:** https://www.linkedin.com/in/harender-singh-analyst
+📎 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harender-singh-analyst) 
+
+
+
