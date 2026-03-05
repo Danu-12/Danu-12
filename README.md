@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Harender Singh
 
- A Business Analyst from **Uttarakhand**,  pursuing an **MBA in Business Analytics** at **Dev Bhoomi Uttarakhand University (DBUU)**.
+ A Data Analyst from **Uttarakhand**,  pursuing an **MBA in Business Analytics** at **Dev Bhoomi Uttarakhand University (DBUU)**.
 
 I use data to support business decisions by **cleaning, analyzing, and visualizing information** to simplify complex problems. 
 My focus goes beyond dashboards—I aim to uncover the **“why” behind the numbers** and convert insights into actions stakeholders can use.
