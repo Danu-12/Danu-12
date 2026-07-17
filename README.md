@@ -12,21 +12,17 @@ My projects are built around real business scenarios across e-commerce, digital 
 
 ## SKill Stack
 
-### Technical Skills
-`SQL (MySQL)` • `Python` • `Advanced Excel` (Power Query, XLOOKUP, Pivot Tables) • `Google Sheets`
+## 🛠️ Skills & Technologies
 
-### Business Intelligence & Reporting
-`Power BI (DAX)` • `Tableau` • `MIS Reporting` • `Dashboard Automation` • `KPI Monitoring`
+**Technical Skills:** `SQL (MySQL)` • `Python` • `Advanced Excel (Power Query, XLOOKUP, Pivot Tables)` • `Google Sheets`
 
-### Data Analysis
-`Business Performance Analysis` • `Operational Analytics` • `Exploratory Data Analysis (EDA)` • `Drill-Down Analysis` • `Funnel Analysis` • `Cohort Analysis` • `User Behaviour Analysis` • `A/B Testing`
+**Business Intelligence & Reporting:** `Power BI (DAX)` • `Tableau` • `MIS Reporting` • `Dashboard Automation` • `KPI Monitoring`
 
-### Data Management
-`Data Validation` • `Data Reconciliation` • `Report Automation` • `Data Quality Assurance` • `Master Data Management`
+**Data Analysis:** `Business Performance Analysis` • `Operational Analytics` • `Exploratory Data Analysis (EDA)` • `Drill-Down Analysis` • `Funnel Analysis` • `Cohort Analysis` • `User Behaviour Analysis` • `A/B Testing`
 
-### AI & Productivity
-`Claude Connectors` • `Claude Artifacts` • `ChatGPT Projects` • `Gemini Skills` • `NotebookLM` • `Copiolt in excel `
+**Data Management:** `Data Validation` • `Data Reconciliation` • `Report Automation` • `Data Quality Assurance` • `Master Data Management`
 
+**AI & Productivity:** `Claude Connectors` • `Claude Artifacts` • `ChatGPT Projects` • `Gemini Skills` • `NotebookLM` • `Microsoft Copilot for Excel`
 
 ---
 # Featured projects
