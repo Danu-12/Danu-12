@@ -1,69 +1,66 @@
 # 👋 Hi, I’m Harender Singh
 
- A Data Analyst from **Uttarakhand**,  pursuing an **MBA in Business Analytics** at **Dev Bhoomi Uttarakhand University (DBUU)**.
+**A Data Analyst**
 
-I use data to support business decisions by **cleaning, analyzing, and visualizing information** to simplify complex problems. 
-My focus goes beyond dashboards—I aim to uncover the **“why” behind the numbers** and convert insights into actions stakeholders can use.
+I analyze customer behavior, marketing performance, and product data to help businesses make better decisions.
 
-I have hands-on experience with **SQL, Excel, Power BI, and Python**, working on real-world problems across **sales, marketing, and customer analytics**.
+Rather than starting with dashboards or tools, I begin with the business question—understanding what decision needs to be made, identifying the metrics that matter, and translating data into recommendations that stakeholders can act on.
 
----
-
-## 🔍 Highlights from My Work
-
-### YouTube Sentiment Analysis
-- Analyzed **1,000+ YouTube comments** using Python and NLP  
-- Identified audience emotions and content-driving themes  
-
-### Diwali Sales Analysis & Dashboard
-- Identified **high-value customer segments**  
-- Highlighted inventory gaps for targeted marketing and demand planning  
-
-### Coffee Sales Dashboard
-- Built an **Excel dashboard** using Pivot Tables, Slicers, and Timelines  
-- Enabled faster reporting and inventory optimization  
-
-### Meta Ads Performance Dashboard
-- Created a **Power BI dashboard** to track impressions, CTR, ROI, and campaign performance  
-
-### Digital Marketing Internship
-- Conducted competitive analysis using **Google Analytics and Excel**  
-- Identified keyword gaps contributing to improved website traffic  
+My projects are built around real business scenarios across e-commerce, digital marketing, and quick commerce, where I explore customer retention, campaign performance, category optimization, and operational reporting. Each analysis is designed to move beyond reporting by explaining why performance changes and what actions should follow.
 
 ---
 
-## 🛠️ Skills & Tools
+## SKill Stack
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=plastic&logo=google-analytics&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=plastic)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=plastic)
-![NLTK](https://img.shields.io/badge/NLTK-3E8EDE?style=plastic)
+### Technical Skills
+`SQL (MySQL)` • `Python` • `Advanced Excel` (Power Query, XLOOKUP, Pivot Tables) • `Google Sheets`
+
+### Business Intelligence & Reporting
+`Power BI (DAX)` • `Tableau` • `MIS Reporting` • `Dashboard Automation` • `KPI Monitoring`
+
+### Data Analysis
+`Business Performance Analysis` • `Operational Analytics` • `Exploratory Data Analysis (EDA)` • `Drill-Down Analysis` • `Funnel Analysis` • `Cohort Analysis` • `User Behaviour Analysis` • `A/B Testing`
+
+### Data Management
+`Data Validation` • `Data Reconciliation` • `Report Automation` • `Data Quality Assurance` • `Master Data Management`
+
+### AI & Productivity
+`Claude Connectors` • `Claude Artifacts` • `ChatGPT Projects` • `Gemini Skills` • `NotebookLM` • `Copiolt in excel `
+
+
+---
+# Featured projects
+
+### Meta Ad Performance Analysis
+
+Marketing teams couldn't identify which campaigns were driving sales despite high engagement. Analysis of **80,000+ Meta ad records** using **Power BI, DAX, Power Query, and Excel** revealed a **0.56% Purchase Rate**, leading to recommendations on **retargeting high-intent audiences, reallocating budget to top-performing campaigns, and matching ad formats to each funnel stage**.
+
+**Tech Stack:** `Power BI` • `DAX` • `Power Query` • `Excel`
+
+
+
+### RFM Customer Segmentation
+
+Marketing teams lacked a clear way to prioritize customer retention and re-engagement. **Google BigQuery (SQL)** and **Tableau** were used to segment **287 customers**, identifying **24% at churn risk** and only **7.7% Champion customers**, leading to **segment-specific loyalty, repeat purchase, and re-engagement campaigns**.
+
+**Tech Stack:** `Google BigQuery (SQL)` • `Tableau`
+
+
+
+### Product Category and Clubhouse Optimization Strategy
+
+A quick-commerce business needed to identify which categories and clubhouse formats should drive future growth. Analysis of **16 product categories** using **Excel** and **Tableau** showed the **top four categories generated nearly 50% of orders**, leading to recommendations on **category visibility, healthier product expansion, breakfast bundles, and Small Supermarket expansion**.
+
+**Tech Stack:** `Excel` • `Tableau`
 
 
 ---
 
-## 🚀 What Drives Me
-
-What drives me is curiosity—I enjoy asking *why*, spotting hidden patterns, and transforming raw data into clear stories and visuals that create **measurable impact**.
-
----
-
-## 📌 Open to Opportunities
-
-I’m actively seeking **entry-level Business Analyst / Data Analyst roles**, where I can contribute to meaningful projects while continuously learning and growing.
-
----
 
 ## 🔗 Connect with Me
 
 📎 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harender-singh-analyst) 
+
 
 
 
