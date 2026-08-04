@@ -2,7 +2,7 @@
 
 **A Data Analyst**
 
-I analyze customer behavior, marketing performance, and product data to help businesses make better decisions.
+I analyze customer behavior, marketing performance, Finance Data and product data to help businesses make better decisions.
 
 Rather than starting with dashboards or tools, I begin with the business question—understanding what decision needs to be made, identifying the metrics that matter, and translating data into recommendations that stakeholders can act on.
 
